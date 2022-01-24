@@ -5,6 +5,8 @@
 }
 
 .container {
+  width: 1110px;
+  padding: 0 6px;
   margin: 0 auto;
 }
 
